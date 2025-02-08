@@ -42,13 +42,23 @@ It will be a Technical Interview involving mostly Operating Systems concepts.
 8. TOP and SAR command in detail.
 9. Paging Concept.
 10.What are System calls?
+   
 11.Explain about fork().
+
 12.Explain the Process life cycle or Process States.
+
 13.How to check for Disk Free space.
+
 14.I have disk space available but the file is not getting created. Why?
+
 15.Explain the importance of inodes.
+
 16.The device is Heating up. Troubleshoot it.
+
 17.How do PING and TRACERT commands work?
+
 18.Explain what happens when www.amazon.com is clicked.
+
 19.Explain DHCP DORA Process.
+
 20.Write a program for printing the permutations of a string.
