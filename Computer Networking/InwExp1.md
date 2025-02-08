@@ -1,9 +1,26 @@
 # Here I will add a very important computer networking concept, Notes and important interview questions
 
-Examples
+Interview Experience 1 for Cloud Support Associate
+Examples 1
+
+Computer Networking IMP Topics:
+
+Difference between router, switch.
+What is a Broadcast Domain?
+DHCP DORA process
+DNS – detailed explanation. TCP/UDP and why?
+Subnetting
+MSS/MTU
+Complete flow when you trigger amazon.com
+OSI model with complete details and protocols on each layer.
+TCP and SSL handshake
+Difference between TCP/UDP, examples
+Flow/error control
+What is a firewall, why do you need it?
+OSI Model
 
 Introduce yourself.
-Explain DHCP and DORA processes in detail.
+0. Explain DHCP and DORA processes in detail.
 1. What is APIPA?
 2. Which messages are Broadcast and Unicast in DORA? Why?
 3. Different types of IP Address allocations in DHCP.
